@@ -131,3 +131,23 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     float:left;
     background-color:  rgba(135,206,250,.7);
 }
+
+.left-about-heading{
+    width:60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50PX;
+    text-transform: uppercase;
+    
+    
+}
+#welcome{
+    text-align: center;
+    margin: 20px, 0;
+    font-size: 280%;
+}
+
+
+
+
