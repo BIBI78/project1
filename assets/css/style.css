@@ -173,4 +173,37 @@ label {
     
 
 
+/* GALLERY/PHOTOS SECTION */
+
+#photos{
+    
+}
+
+.w3-content w3-display-container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.w3-button w3-black w3-display-left{
+    text-align: center;
+  
+
+}
+
+
+.w3-button w3-black w3-display-right{
+    text-align: center;
+    
+
+}
+
+.mySlides{
+    width:  50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
