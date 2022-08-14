@@ -141,6 +141,19 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     text-transform: uppercase;
     
 }
+/* this is for the sign up page */
+#center-about{
+    padding-top: 30px;
+    width: 33%;
+    height: 33%;
+    margin: 0 auto;
+    text-align: center;
+    
+    background-color: rgba(135,206,250,.7)
+    
+}
+
+
 
 
 
@@ -161,15 +174,13 @@ footer {
     color: black;
     font-size: 100%;
     letter-spacing: 4px;
-    
     text-align: center;
 }
 
-label {
-    display: inline-block;
-    width: 150px;
-    text-align: left;
-  }
+footer a {
+    text-decoration: none;
+}
+
     
 
 
@@ -207,5 +218,22 @@ label {
     margin-right: auto;
 }
 
+/* SIGN UP PAGE */
 
+#signup-form{
+    padding: 2%;
+    font-family: Cairo, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    /* background-color: rgba(135,206,250,.7); */
+    
+   
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+  }
 
