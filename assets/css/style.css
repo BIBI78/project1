@@ -69,11 +69,11 @@ color: inherit;
 border-bottom: 5px solid rgba(135,206,250,.7);
 }
 
-/* come back to this  */
+/* come back to this 
 #space{
     color: white;
  }
-
+ */
 
 
  /* MAIN IMAGE STYLE */
@@ -97,6 +97,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     background-image: url(../images/main.jpg) ;
      background-repeat: no-repeat; 
      margin-top: 10px;
+     padding-top:10%;
 
     
  }
