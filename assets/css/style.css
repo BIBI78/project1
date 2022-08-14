@@ -200,13 +200,16 @@ footer a {
 }
 .w3-button w3-black w3-display-left{
     text-align: center;
-  
+   
+  padding: 300px;
 
 }
 
 
 .w3-button w3-black w3-display-right{
     text-align: center;
+   padding: 300px;
+    
     
 
 }
