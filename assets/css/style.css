@@ -232,8 +232,18 @@ footer a {
 }
 
 label {
+    letter-spacing: 3px;
     display: inline-block;
     width: 150px;
     text-align: left;
   }
+
+  #saturday, #sunday, #both{
+    
+  
+    margin-right: 1em; text-align : right;
+  
+
+
+ }
 
