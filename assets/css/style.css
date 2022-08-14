@@ -259,7 +259,7 @@ label {
 @media screen and (max-width:1200px) {
 
     #logo{
-        margin:0 auto;
+       
         text-align: center;
 
     }
@@ -273,10 +273,11 @@ label {
         margin-left: 3%;
         
     }
-    #cover-text h2{
+     #cover-text h2{
         padding-left: 5%; 
+        padding-left: 1%;
     
-    }
+    } 
 
     #welcome{
         padding: 30px 0;
@@ -314,14 +315,21 @@ label {
         line-height: 25px;
     }
 
+    #logo{
+       
+        text-align: center;
+        padding: 0%;
+
+    }
+
     #cover-text{
         left: 0;
         padding-left: 1%;
       
     }
-    #cover-text h2{
+    /* #cover-text h2{
         text-align: center;
-    }
+    } */
 
    
     #ethos{
