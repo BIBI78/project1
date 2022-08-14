@@ -176,8 +176,10 @@ label {
 /* GALLERY/PHOTOS SECTION */
 
 #photos{
+    padding: 2%;
     
 }
+
 
 .w3-content w3-display-container{
     text-align: center;
