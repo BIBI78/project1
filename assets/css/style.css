@@ -263,6 +263,15 @@ label {
         margin:0 auto;
     }
 
+    #cover-text{
+        margin-left: 3%;
+        
+    }
+    #cover-text h2{
+        padding-left: 5%; 
+    
+    }
+
     #welcome{
         padding: 30px 0;
         margin: 0;
@@ -276,10 +285,14 @@ label {
 
     #sub-image{
         width: 100%;
-        float: right;
-        padding: 2%;
+        float: left;
+        padding-top: 2%;
+        
+       
 
     }
+
+
   }
 
 
@@ -297,14 +310,27 @@ label {
 
     #cover-text{
         left: 0;
+        padding-left: 1%;
+      
+    }
+    #cover-text h2{
+        text-align: center;
     }
 
+   
     #ethos{
         width: 90%;
         height: 1200px;
         margin: 0 auto;
     }
 
+    #sub-image{
+        width: 100%;
+        float: left;
+        
+        padding-top: 2%;
+
+    }
     .left-about-heading{
         width : inherit;
     }
