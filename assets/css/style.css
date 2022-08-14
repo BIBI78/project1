@@ -257,6 +257,12 @@ label {
 
 /* 1200px */
 @media screen and (max-width:1200px) {
+
+    #logo{
+        margin:0 auto;
+        text-align: center;
+
+    }
     #ethos{
         width: 65%;
         height:1200px;
