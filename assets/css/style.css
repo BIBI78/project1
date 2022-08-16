@@ -30,7 +30,8 @@ h1, h2{
     font-family: Cairo, sans-serif;
     color: black;
     float: center;
-    font-size: 280%;
+    /* font-size: 280%; */
+    font-size: 3rem;
     letter-spacing: 30px;
     text-align: center;
     text-decoration: none;
@@ -300,6 +301,10 @@ label {
     }
 
 
+  }
+
+  .sub-ethos{
+    display: flex;
   }
 
 
