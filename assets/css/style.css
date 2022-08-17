@@ -48,7 +48,6 @@ h1, h2{
     color: black;
     font-size: 110%;
     letter-spacing: 4px;
-    /*float: center; */
     text-align: center;
 }
 
@@ -183,12 +182,14 @@ footer {
     font-size: 100%;
     letter-spacing: 4px;
     text-align: center;
+    text-decoration: none;
     /* background-color: rgba(135,206,250,.7); */
   
 }
 
 footer a {
     text-decoration: none;
+    /* border-bottom: 5px solid rgba(135,206,250,.7); */
 
 }
 
@@ -349,12 +350,8 @@ label {
     #cover-text{
         left: 0;
         padding-left: 1%;
-      
+    
     }
-    /* #cover-text h2{
-        text-align: center;
-    } */
-
    
     #ethos{
         margin: 0 auto;
@@ -362,9 +359,8 @@ label {
 
     #sub-image{
         width: 100%;
-
-
     }
+
     .left-about-heading{
         width : inherit;
     }
@@ -381,19 +377,13 @@ label {
     }
 
 
-    /* .mySlides{
-        width:  95%;
-        height: 95%;
-        margin-left: auto;
-        margin-right: auto;
-    } */
 
     .sub-ethos{
         flex-direction: column;
     }
 
     #sub-image img {
-   width: 390px;
+    width: 390px;
 
     }
     
