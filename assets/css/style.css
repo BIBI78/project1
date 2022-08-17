@@ -127,20 +127,19 @@ border-bottom: 5px solid rgba(135,206,250,.7);
 /* ETHOS SECTION what the site is about */
 
 #ethos{
-    height:600px;
+   
 }
 
 #left-about{
     padding-top: 30px;
      width: 27%; 
-    float:left;
     background-color:  rgba(135,206,250,.7);
-    
+    margin-right: 7%;
+    margin-left: 3%;
 }
+          
 
 .left-about-heading{
-    width:66%;
-    float: left;
     line-height: 20px;
     clear: both;
     padding-top: 3%;
@@ -166,9 +165,9 @@ border-bottom: 5px solid rgba(135,206,250,.7);
 
 
 #sub-image{
-    float: right;
+    /* float: right;
     margin-right: 33%;
-    
+     */
    
 }
 
@@ -273,7 +272,7 @@ label {
  /* RESPONSIVE STYLING */
 
 /* 1200px */
-@media screen and (max-width:1200px) {
+@media screen and (max-width:998px) {
 
     #logo{
        
@@ -281,8 +280,8 @@ label {
 
     }
     #ethos{
-        width: 65%;
-        height:1200px;
+        /* width: 65%;
+        height:1200px; */
         margin:0 auto;
     }
 
@@ -303,34 +302,35 @@ label {
 
     #left-about{
         width: 100%;
-        float: left;
         padding: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .sub-ethos{
+        flex-direction: column;
     }
 
     #sub-image{
         width: 100%;
-        float: left;
-        padding-top: 2%;
-        
-        
-       
+    }
 
+    #sub-image img{
+        width: 100%;
     }
 
 
-  }
+}
 
-  /* .sub-ethos{
+  .sub-ethos{
     display: flex;
-    width: 100vw;
-    flex-direction: column;
-  } */
+  }
 
 
   /* 900px */
 
 
-@media screen and (max-width:950px){
+@media screen and (max-width:600px){
     #menu{
         clear: left;
         float: left;
@@ -357,16 +357,12 @@ label {
 
    
     #ethos{
-        width: 90%;
-        height: 1200px;
         margin: 0 auto;
     }
 
     #sub-image{
         width: 100%;
-        float: left;
-        
-        padding-top: 2%;
+
 
     }
     .left-about-heading{
@@ -391,5 +387,16 @@ label {
         margin-left: auto;
         margin-right: auto;
     }
+
+    .sub-ethos{
+        flex-direction: column;
+    }
+
+    #sub-image img {
+   width: 390px;
+
+    }
+    
+    
 
 }
