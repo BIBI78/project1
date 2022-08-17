@@ -30,7 +30,6 @@ h1, h2{
     font-family: Cairo, sans-serif;
     color: black;
     float: center;
-    /* font-size: 280%; */
     font-size: 3rem;
     letter-spacing: 30px;
     text-align: center;
@@ -69,11 +68,7 @@ color: inherit;
 border-bottom: 5px solid rgba(135,206,250,.7);
 }
 
-/* come back to this 
-#space{
-    color: white;
- }
- */
+
 
 
  /* MAIN IMAGE STYLE */
@@ -147,6 +142,8 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     text-align: center;
     
 }
+
+
 /* this is for the sign up page */
 #center-about{
     padding-top: 30px;
@@ -164,9 +161,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
 
 
 #sub-image{
-    /* float: right;
-    margin-right: 33%;
-     */
+  
    
 }
 
@@ -210,34 +205,8 @@ footer a :hover{
 }
 
 
-.w3-content w3-display-container{
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-   
-}
-.w3-button w3-black w3-display-left{
-    text-align: center;
-   
-  padding: 300px;
-
-}
 
 
-.w3-button w3-black w3-display-right{
-    text-align: center;
-   padding: 300px;
-    
-    
-
-}
-
-.mySlides{
-    width:  50%;
-    height: 50%;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 /* SIGN UP PAGE */
 
@@ -247,7 +216,7 @@ footer a :hover{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 3px;
-    /* background-color: rgba(135,206,250,.7); */
+  
     
    
 }
@@ -281,8 +250,7 @@ label {
 
     }
     #ethos{
-        /* width: 65%;
-        height:1200px; */
+       
         margin:0 auto;
     }
 
