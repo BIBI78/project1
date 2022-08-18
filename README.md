@@ -6,7 +6,7 @@ Free YSL
 
 ## h2
 ### h3
-
+![Responsive Images](amiresponsive.png)
 
 
 # Features
@@ -17,7 +17,7 @@ This website is for a meditation seminar in Paris,France
  * Responsive, 
  * Center aligned and on all three pages.
 
-
+![Navigation Bar](nav.png)
 
 
 2. Landing Page 
@@ -25,11 +25,13 @@ This website is for a meditation seminar in Paris,France
 
 3. Footer 
 * links to the the relavent social media platforms
+![Footer](footer.png)
 
 4. Gallery Page
 * A slide show showing a few photos giveing the user a preview of what the seminar looks like.
 * the slide show is created using bootstrap.
 * Also Responsive
+![Gallery](slideshow.png)
 
 5. Sign Up Page
 * A responsive sign up page
