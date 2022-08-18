@@ -21,6 +21,7 @@ This website is for a meditation seminar in Paris,France
 
 2. Landing Page 
 * The landing page gives a brief overview of what the site is for and the purppose of its creation.
+![Landing Page](landingpage.png)
 
 3. Footer 
 * links to the the relavent social media platforms.
