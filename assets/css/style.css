@@ -78,6 +78,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     overflow: hidden;
     position: relative;
 
+
  }
 
  #cover-text,#cover-text h2{
@@ -96,6 +97,8 @@ border-bottom: 5px solid rgba(135,206,250,.7);
      background-repeat: no-repeat; 
      margin-top: 10px;
      padding-top:10%;
+     background-size: cover;
+     background-position: center;
 
     
  }
@@ -124,6 +127,10 @@ border-bottom: 5px solid rgba(135,206,250,.7);
    
 }
 
+ .sub-ethos{
+    padding-top: 3% white;
+} 
+
 #left-about{
     padding-top: 30px;
      width: 27%; 
@@ -140,6 +147,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     margin-bottom: 50PX;
     text-transform: uppercase;
     text-align: center;
+
     
 }
 
@@ -155,7 +163,6 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     background-color: rgba(135,206,250,.7)
     
 }
-
 
 
 
