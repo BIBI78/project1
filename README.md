@@ -54,6 +54,16 @@ This website is for a meditation seminar in Paris,France
 * All the directions given in the course video were followed.
 * The site is linked here https://bibi78.github.io/project1/
 
+# Credits 
+## Content
+* The basic outline comes from the [Code Institute](https://learn.codeinstitute.net/dashboard) tutorials.
+* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/icons)
+* The font came from [Google Fonts](https://fonts.google.com/)
+* The javascript for the slide show came from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
+
+## Media 
+* All images came from Google.
+
 
 
 
