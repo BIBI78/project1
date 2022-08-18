@@ -1,11 +1,10 @@
 # PROJECT 1! 
 
-Free YSL
+
 [Project 1](https://bibi78.github.io/project1/index.html)
 
 
-## h2
-### h3
+
 ![Responsive Images](amiresponsive.png)
 
 
@@ -14,7 +13,7 @@ Free YSL
 This website is for a meditation seminar in Paris,France
 
 1. Navigation Bar
- * Responsive, 
+ * Responsive,.
  * Center aligned and on all three pages.
 
 ![Navigation Bar](nav.png)
@@ -24,17 +23,17 @@ This website is for a meditation seminar in Paris,France
 * The landing page gives a brief overview of what the site is for and the purppose of its creation.
 
 3. Footer 
-* links to the the relavent social media platforms
+* links to the the relavent social media platforms.
 ![Footer](footer.png)
 
 4. Gallery Page
 * A slide show showing a few photos giveing the user a preview of what the seminar looks like.
 * the slide show is created using bootstrap.
-* Also Responsive
+* Also Responsive.
 ![Gallery](slideshow.png)
 
 5. Sign Up Page
-* A responsive sign up page
+* A responsive sign up page.
 * Allows the user to pick the days they woould like to join the seminar and sign up.
 ![Sign Up Page](signupmd.png)
 
@@ -60,9 +59,9 @@ This website is for a meditation seminar in Paris,France
 # Credits 
 ## Content
 * The basic outline comes from the [Code Institute](https://learn.codeinstitute.net/dashboard) tutorials.
-* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/icons)
-* The font came from [Google Fonts](https://fonts.google.com/)
-* The javascript for the slide show came from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
+* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/icons) .
+* The font came from [Google Fonts](https://fonts.google.com/) .
+* The javascript for the slide show came from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/) .
 
 ## Media 
 * All images came from Google.
