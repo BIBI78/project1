@@ -36,6 +36,7 @@ This website is for a meditation seminar in Paris,France
 5. Sign Up Page
 * A responsive sign up page
 * Allows the user to pick the days they woould like to join the seminar and sign up.
+![Sign Up Page](signupmd.png)
 
 # Testing
 
