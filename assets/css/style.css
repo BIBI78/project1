@@ -127,9 +127,9 @@ border-bottom: 5px solid rgba(135,206,250,.7);
    
 }
 
- .sub-ethos{
+ /* .sub-ethos{
     padding-top: 3% white;
-} 
+}  */
 
 #left-about{
     padding-top: 30px;
@@ -181,7 +181,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
 footer {
     font-family: Cairo, sans-serif;
     color: black;
-    font-size: 100%;
+    font-size: 175%;
     letter-spacing: 4px;
     text-align: center;
     text-decoration: none;
