@@ -37,7 +37,23 @@ This website is for a meditation seminar in Paris,France
 
 # Testing
 
-### HTML/CSS Validator???
+### HTML/CSS Validator
+
+* No errors were returned when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbibi78.github.io%2Fproject1%2F)
+
+* CSS
+
+
+# Unfixed Bugs 
+
+* getting eveything to be responsive got tricky. not sure everything is perfect.
+
+# Deployment
+
+* The site was deployed using Github pages.
+* All the directions given in the course video were followed.
+* The site is linked here https://bibi78.github.io/project1/
+
 
 
 
