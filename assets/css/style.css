@@ -22,7 +22,7 @@ h1, h2{
 }
 
 .active{
-    border-bottom: 2.5px solid rgba(135,206,250,.7);
+    border-bottom: 2.5px solid rgb(226, 212, 129);
 }
 
 
@@ -65,7 +65,7 @@ color: inherit;
 }
 
 #menu a:hover{
-border-bottom: 5px solid rgba(135,206,250,.7);
+border-bottom: 5px solid rgb(226, 212, 129);
 }
 
 
@@ -175,6 +175,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
 
 .gold-border{
     display: inline;
+    
 }
 
 
@@ -210,7 +211,7 @@ footer a {
 
 footer a :hover{
 
-    background-color: 3px solid green;
+    background-color: 3px solid rgb(226, 212, 129);
 
 }
 
