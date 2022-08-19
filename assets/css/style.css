@@ -208,11 +208,8 @@ footer a :hover{
 
 #photos{
     padding: 2%;
-    width: 60%;
-    height: 60%;
     
 }
-
 
 
 
@@ -324,6 +321,7 @@ label {
 
     }
 
+   
     #cover-text{
         left: 0;
         padding-left: 1%;
@@ -335,9 +333,9 @@ label {
     }
 
     #sub-image{
-        /* width: 100%; */
-        width: 390%;
-    }
+        width: 100%;
+        /* width: 390%; */
+     }  
 
     .left-about-heading{
         width : inherit;
