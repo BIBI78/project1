@@ -134,7 +134,7 @@ border-bottom: 5px solid rgba(135,206,250,.7);
 #left-about{
     padding-top: 30px;
      width: 27%; 
-    background-color:  rgba(135,206,250,.7);
+    /* background-color:  rgba(135,206,250,.7); */
     margin-right: 7%;
     margin-left: 3%;
 }
@@ -147,6 +147,8 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     margin-bottom: 50PX;
     text-transform: uppercase;
     text-align: center;
+    border: 10px solid white;
+    background-color:  rgba(135,206,250,.7);
 
     
 }
@@ -162,6 +164,10 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     
     background-color: rgba(135,206,250,.7)
     
+}
+
+.gold-border{
+    display: inline;
 }
 
 
@@ -182,7 +188,7 @@ footer {
     font-family: Cairo, sans-serif;
     color: black;
     font-size: 175%;
-    letter-spacing: 4px;
+    letter-spacing: 8px;
     text-align: center;
     text-decoration: none;
     /* background-color: rgba(135,206,250,.7); */
