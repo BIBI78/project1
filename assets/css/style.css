@@ -147,8 +147,9 @@ border-bottom: 5px solid rgba(135,206,250,.7);
     margin-bottom: 50PX;
     text-transform: uppercase;
     text-align: center;
-    border: 10px solid white;
-    background-color:  rgba(135,206,250,.7);
+    /* border: 10px solid white; */
+    /* background-color:  rgba(135,206,250,.7); */
+    background-color: white;
 
     
 }
