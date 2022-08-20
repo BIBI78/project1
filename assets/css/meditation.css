@@ -83,7 +83,7 @@ border-bottom: 5px solid rgb(226, 212, 129);
 
 
  /* no-repeat center center doesnt work on this element dont know why */
- #main-image{
+ /* #main-image{
     height: 600px;
     width: 100%;
     background-image: url(../images/main.jpg) ;
@@ -94,7 +94,7 @@ border-bottom: 5px solid rgb(226, 212, 129);
      background-position: center;
 
     
- }
+ } */
 
 
 
@@ -105,14 +105,14 @@ border-bottom: 5px solid rgb(226, 212, 129);
     color: white; */
   }
   
-  #bground-image {
+  /* #bground-image {
     height: 60vh;
     width: 100%;
     background: url("../images/main.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
     height: 900px
-  }
+  } */
 
 
 
@@ -164,7 +164,7 @@ footer a :hover{
 /* SIGN UP PAGE */
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("../images/main.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
