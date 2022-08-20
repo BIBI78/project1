@@ -147,6 +147,7 @@ border-bottom: 5px solid rgb(226, 212, 129);
 }
 
 footer {
+    padding-top: 3%;
     font-family: Cinzel, sans-serif;
     color: black;
     font-size: 175%;
