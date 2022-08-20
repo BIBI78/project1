@@ -48,6 +48,7 @@ h1, h2{
     font-size: 110%;
     letter-spacing: 4px;
     text-align: center;
+    padding-bottom: 3%;
 }
 
 
@@ -67,22 +68,6 @@ color: inherit;
 #menu a:hover{
 border-bottom: 5px solid rgb(226, 212, 129);
 }
-
-
-
-
- /* MAIN IMAGE STYLE */
- #main-image-outer{
-    height: 420px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-
-
- }
-
-
-
 
 
 
@@ -109,15 +94,23 @@ footer a :hover{
 
 }
 
+.bottom-tag{
+    font-family: Cinzel, sans-serif;
+    text-align: center;
+    margin: 20px, 0;
+    font-size: 60%;
+}
+
     
 
 
 /* SIGN UP PAGE */
 
 .form-section {
+    
     clear: left;
     background: url("../images/main.jpg");
-    /* background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg"); */
+    
     background-size: cover;
     background-position: center;
     height: 900px;
