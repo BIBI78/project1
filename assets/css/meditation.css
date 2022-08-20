@@ -162,9 +162,11 @@ footer a :hover{
 
 
 /* SIGN UP PAGE */
+
 .form-section {
     clear: left;
     background: url("../images/main.jpg");
+    /* background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg"); */
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -173,7 +175,8 @@ footer a :hover{
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    
+    background-color: rgba(16, 168, 234, 0.6);
     max-width: 400px;
     position: absolute;
     left: 10%;
@@ -196,7 +199,7 @@ footer a :hover{
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: rgb(226, 212, 129);
 }
 
 .join-button {
@@ -205,15 +208,26 @@ footer a :hover{
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: rgb(226, 212, 129);
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: rgb(226, 212, 129);
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
