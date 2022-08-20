@@ -21,8 +21,12 @@ h1, h2{
     color: black;
 }
 
-.active{
+.page{
     border-bottom: 2.5px solid rgb(226, 212, 129);
+}
+
+.active{
+    
 }
 
 
@@ -98,86 +102,34 @@ border-bottom: 5px solid rgb(226, 212, 129);
 
 
 
-/*backgrooudn image sign up*/
+/* photos*/
 
-.bground {
-    /* background-color: hsl(263, 100%, 53%);
-    color: white; */
-  }
-  
-  #bground-image {
-    height: 60vh;
-    width: 100%;
-    background: url("../images/main.jpg") no-repeat center center;
-    background-size: cover;
-    background-position: center;
-    height: 900px
-  }
+.gold-border{
+    width:40%; 
+    height:40%; 
+    margin-left: 29%;
+    padding: 2%;
+       
 
-
-
-
-
-  
-
-/* ETHOS SECTION what the site is about */
-
-#ethos{
-   
 }
 
- /* .sub-ethos{
-    padding-top: 3% white;
-}  */
-
-#left-about{
-    padding-top: 30px;
-     width: 27%; 
-    /* background-color:  rgba(135,206,250,.7); */
-    margin-right: 7%;
-    margin-left: 3%;
+.carousel { 
+    width:80%; 
+    height:80%; 
+    margin: 0 auto;
 }
-          
 
-.left-about-heading{
-    line-height: 20px;
-    clear: both;
-    padding-top: 3%;
-    margin-bottom: 50PX;
-    text-transform: uppercase;
-    text-align: center;
-    /* border: 10px solid white; */
-    /* background-color:  rgba(135,206,250,.7); */
-    background-color: white;
-
-    
-}
 
 
 /* this is for the sign up page */
-#center-about{
-    padding-top: 30px;
-    width: 33%;
-    height: 33%;
-    margin: 0 auto;
-    text-align: center;
-    
-    background-color: rgb(226, 212, 129);
-    
-}
-
-.gold-border{
-    display: inline;
-    
-}
 
 
 
 
-#sub-image{
-  
-   
-}
+
+
+
+
 
 #welcome{
     text-align: center;
@@ -204,7 +156,7 @@ footer a {
 
 footer a :hover{
 
-    background-color: 3px solid rgb(226, 212, 129);
+    /* background-color: 3px solid rgb(226, 212, 129); */
 
 }
 
@@ -214,7 +166,7 @@ footer a :hover{
 /* GALLERY/PHOTOS SECTION */
 
 #photos{
-    padding: 2%;
+    
     
 }
 
@@ -223,148 +175,9 @@ footer a :hover{
 
 /* SIGN UP PAGE */
 
-#signup-form{
-    padding: 2%;
-    font-family: Cinzel, sans-serif;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-  
-    
-   
-}
-
-label {
-    letter-spacing: 3px;
-    display: inline-block;
-    width: 150px;
-    text-align: left;
-  }
-
-  #saturday, #sunday, #both{
-    
-  
-    margin-right: 1em; text-align : right;
-  
-
-
- }
-
+ 
 
 
  /* RESPONSIVE STYLING */
 
-/* 998px */
-@media screen and (max-width:998px) {
 
-    #logo{
-       
-        text-align: center;
-
-    }
-    #ethos{
-       
-        margin:0 auto;
-    }
-
-    #cover-text{
-        margin-left: 3%;
-        
-    }
-     #cover-text h2{
-        padding-left: 5%; 
-        padding-left: 1%;
-    
-    } 
-
-    #welcome{
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    #left-about{
-        width: 100%;
-        padding: 0;
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    .sub-ethos{
-        flex-direction: column;
-    }
-
-    #sub-image{
-        width: 100%;
-    }
-
-    #sub-image img{
-        width: 100%;
-    }
-
-
-}
-
-  .sub-ethos{
-    display: flex;
-  }
-
-
-  /* 600px */
-
-
-@media screen and (max-width:600px){
-    #menu{
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
-    #logo{
-       
-        text-align: center;
-        padding: 0%;
-
-    }
-
-  
-   
-    #ethos{
-        margin: 0 auto;
-    }
-
-    #sub-image{
-        width: 100%;
-        /* width: 390%; */
-     }  
-
-    .left-about-heading{
-        width : inherit;
-    }
-
-
-    .left-about-heading h2{
-        width : 100%;
-        text-align: center;
-    }
-
-    .left-about-heading p{
-        text-align: center;
-       padding: 0 20px;
-    }
-
-
-
-    .sub-ethos{
-        flex-direction: column;
-    }
-
-    #sub-image img {
-    width: 390px;
-
-    }
-    
-    
-
-}
