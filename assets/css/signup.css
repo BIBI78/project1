@@ -82,51 +82,6 @@ border-bottom: 5px solid rgb(226, 212, 129);
  }
 
 
- /* no-repeat center center doesnt work on this element dont know why */
- /* #main-image{
-    height: 600px;
-    width: 100%;
-    background-image: url(../images/main.jpg) ;
-     background-repeat: no-repeat; 
-     margin-top: 10px;
-     padding-top:10%;
-     background-size: cover;
-     background-position: center;
-
-    
- } */
-
-
-
-/*backgrooudn image sign up*/
-
-.bground {
-    /* background-color: hsl(263, 100%, 53%);
-    color: white; */
-  }
-  
-  /* #bground-image {
-    height: 60vh;
-    width: 100%;
-    background: url("../images/main.jpg") no-repeat center center;
-    background-size: cover;
-    background-position: center;
-    height: 900px
-  } */
-
-
-
-
-
-  
-
-
-  
-
-
-
-
-
 
 
 
@@ -155,10 +110,6 @@ footer a :hover{
 }
 
     
-
-
-
-
 
 
 /* SIGN UP PAGE */
