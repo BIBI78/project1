@@ -104,20 +104,27 @@ border-bottom: 5px solid rgb(226, 212, 129);
 
 /* photos*/
 
-#photos{
+.gold-border{
+    width:40%; 
+    height:40%; 
+    margin-left: 29%;
+    padding: 2%;
+       
 
 }
 
+.carousel { 
+    width:80%; 
+    height:80%; 
+    margin: 0 auto;
+}
 
 
 
 /* this is for the sign up page */
 
 
-.gold-border{
-    display: inline;
-    
-}
+
 
 
 
