@@ -1,65 +1,64 @@
+
+
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 
- *{
-    margin: 0;
-    padding: 0;
-    border: none;
+*{
+   margin: 0;
+   padding: 0;
+   border: none;
 }
 
 body{
-    font-family: Cinzel, sans-serif;
-    font-weight: 300;
-    color: black ;
+   font-family: Cinzel, sans-serif;
+   font-weight: 300;
+   color: black ;
 }
 
 
 
 h1, h2{
-    font-family: Cinzel, sans-serif;;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    color: black;
-}
-
-.page{
-    border-bottom: 2.5px solid rgb(226, 212, 129);
+   font-family: Cinzel, sans-serif;;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   color: black;
 }
 
 .active{
-    
+   border-bottom: 2.5px solid rgb(226, 212, 129);
 }
 
 
 #logo{
-    font-family: Cinzel, sans-serif;
-    color: black;
-    float: center;
-    font-size: 3rem;
-    letter-spacing: 30px;
-    text-align: center;
-    text-decoration: none;
-    
+   font-family: Cinzel, sans-serif;
+   color: black;
+   float: center;
+   font-size: 3rem;
+   letter-spacing: 30px;
+   text-align: center;
+   text-decoration: none;
+   
 }
 
 #header a{
-    text-decoration: none;
+   text-decoration: none;
 }
 
 #menu{
 
-    font-family: Cinzel, sans-serif;
-    color: black;
-    font-size: 110%;
-    letter-spacing: 4px;
-    text-align: center;
+   font-family: Cinzel, sans-serif;
+   color: black;
+   font-size: 110%;
+   letter-spacing: 4px;
+   text-align: center;
+   padding-bottom: 3%;
 }
 
 
 #menu li {
 
-    display: inline;
-    text-decoration: none;
-    margin-right: 24px;  
+   display: inline;
+   text-decoration: none;
+   margin-right: 24px;  
 }
 
 
@@ -74,101 +73,68 @@ border-bottom: 5px solid rgb(226, 212, 129);
 
 
 
-
- /* MAIN IMAGE STYLE */
- #main-image-outer{
-    height: 420px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-
-
- }
-
-
- /* no-repeat center center doesnt work on this element dont know why */
- #main-image{
-    height: 600px;
-    width: 100%;
-    background-image: url(../images/main.jpg) ;
-     background-repeat: no-repeat; 
-     margin-top: 10px;
-     padding-top:10%;
-     background-size: cover;
-     background-position: center;
-
-    
- }
-
-
-
-/* photos*/
-
-.gold-border{
-    width:40%; 
-    height:40%; 
-    margin-left: 29%;
-    padding: 2%;
-       
-
-}
-
-.carousel { 
-    width:80%; 
-    height:80%; 
-    margin: 0 auto;
-}
-
-
-
-/* this is for the sign up page */
-
-
-
-
-
-
-
-
-
-#welcome{
-    text-align: center;
-    margin: 20px, 0;
-    font-size: 200%;
-}
-
 footer {
-    font-family: Cinzel, sans-serif;
-    color: black;
-    font-size: 175%;
-    letter-spacing: 8px;
-    text-align: center;
-    text-decoration: none;
-    /* background-color: rgba(135,206,250,.7); */
-  
+   padding-top: 3%;
+   font-family: Cinzel, sans-serif;
+   color: black;
+   font-size: 175%;
+   letter-spacing: 8px;
+   text-align: center;
+   text-decoration: none;
+   /* background-color: rgba(135,206,250,.7); */
+ 
 }
 
 footer a {
-    text-decoration: none;
-    /* border-bottom: 5px solid rgba(135,206,250,.7); */
+   text-decoration: none;
+   /* border-bottom: 5px solid rgba(135,206,250,.7); */
 
 }
 
 footer a :hover{
 
-    /* background-color: 3px solid rgb(226, 212, 129); */
+   background-color: 3px solid rgb(226, 212, 129);
 
 }
-
-    
-
 
 .bottom-tag{
-    font-family: Cinzel, sans-serif;
-    text-align: center;
-    margin: 20px, 0;
-    font-size: 60%;
+   font-family: Cinzel, sans-serif;
+   text-align: center;
+   margin: 20px, 0;
+   font-size: 60%;
 }
+
+   
+
+
+/* SIGN UP PAGE */
+
+.form-section {
+   
+   clear: left;
+   background: url("../images/hamsa.webp");
+   
+   background-size: cover;
+   background-position: center;
+   height: 1000px;
+}
+
+.signup-form {
+   margin: 150px 10% 0 0;
+   color: #fff;
+   background-color: rgba(16, 168, 234, 0.6);
+   max-width: 400px;
+   position: absolute;
+   left: 10%;
+   padding: 30px;
+}
+
+.signup-form > h2 {
+   color: #fafafa;
+   margin-bottom: 20px;
+}
+
+
 
 
 

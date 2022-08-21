@@ -166,11 +166,19 @@ border-bottom: 5px solid rgb(226, 212, 129);
     
 }
 
-.gold-border{
+.gold-border-index{
     display: inline;
+    width: 16%; 
+    height: 16%; 
+    
+    padding: 2%;
     
 }
 
+.gold-border-subimage{
+    margin: 0 auto;
+
+}
 
 
 
