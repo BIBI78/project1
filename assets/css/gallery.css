@@ -128,6 +128,16 @@ border-bottom: 5px solid rgb(226, 212, 129);
     margin: 0 auto;
 }
 
+/* cant really change the color here*/
+.carousel-control-prev{
+    color: black;
+   
+}
+
+.carousel-control-next{
+    color: black;
+   
+}
 
 
 /* this is for the sign up page */
