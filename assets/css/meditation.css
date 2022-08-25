@@ -122,7 +122,7 @@ footer a :hover{
 .signup-form {
    margin: 150px 10% 0 0;
    color: #fff;
-   background-color: rgba(16, 168, 234, 0.6);
+   background-color: rgba(16, 168, 234, 87%);
    max-width: 400px;
    position: absolute;
    left: 10%;
@@ -137,7 +137,6 @@ footer a :hover{
    color: #fafafa;
    margin-bottom: 20px;
 }
-
 
 
 
