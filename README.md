@@ -21,22 +21,22 @@ This website is for a meditation seminar in Paris,France
 
 2. Landing Page 
 * The landing page gives a brief overview of what the site is for and the purppose of its creation.
-![Landing Page](landingpage.png)
+![Landing Page](assets/images/landing.png)
 
 3. Footer 
 * links to the the relavent social media platforms.
-![Footer](footer.png)
+![Footer](assets/images/footer.png)
 
 4. Gallery Page
 * A slide show showing a few photos giveing the user a preview of what the seminar looks like.
 * the slide show is created using bootstrap.
 * Also Responsive.
-![Gallery](slideshow.png)
+![Gallery](assets/images/gallery.png)
 
 5. Sign Up Page
 * A responsive sign up page.
 * Allows the user to pick the days they woould like to join the seminar and sign up.
-![Sign Up Page](signupmd.png)
+![Sign Up Page](assets/images/signup.png)
 
 # Testing
 

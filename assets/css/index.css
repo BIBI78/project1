@@ -29,7 +29,6 @@ h1, h2{
 #logo{
     font-family: Cinzel, sans-serif;
     color: black;
-    float: center;
     font-size: 3rem;
     letter-spacing: 30px;
     text-align: center;
@@ -98,21 +97,7 @@ border-bottom: 5px solid rgb(226, 212, 129);
 
 
 
-/*backgrooudn image sign up*/
 
-.bground {
-    /* background-color: hsl(263, 100%, 53%);
-    color: white; */
-  }
-  
-  #bground-image {
-    height: 60vh;
-    width: 100%;
-    background: url("../images/main.jpg") no-repeat center center;
-    background-size: cover;
-    background-position: center;
-    height: 900px
-  }
 
 
 
@@ -126,14 +111,11 @@ border-bottom: 5px solid rgb(226, 212, 129);
    
 }
 
- /* .sub-ethos{
-    padding-top: 3% white;
-}  */
 
 #left-about{
     padding-top: 30px;
      width: 27%; 
-    /* background-color:  rgba(135,206,250,.7); */
+   
     margin-right: 7%;
     margin-left: 3%;
 }
@@ -146,8 +128,6 @@ border-bottom: 5px solid rgb(226, 212, 129);
     margin-bottom: 50PX;
     text-transform: uppercase;
     text-align: center;
-    /* border: 10px solid white; */
-    /* background-color:  rgba(135,206,250,.7); */
     background-color: white;
 
     
@@ -170,7 +150,6 @@ border-bottom: 5px solid rgb(226, 212, 129);
     display: inline;
     width: 16%; 
     height: 16%; 
-    
     padding: 2%;
     
 }
@@ -203,7 +182,7 @@ footer {
     letter-spacing: 8px;
     text-align: center;
     text-decoration: none;
-    /* background-color: rgba(135,206,250,.7); */
+
   
 }
 
