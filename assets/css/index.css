@@ -316,7 +316,9 @@ label {
     /* #sub-image img{
         width: 100%;
     } */
-
+#border-center-image{
+    width: 100%;
+}
 
 }
 
@@ -325,7 +327,7 @@ label {
   }
 
 
-  /* 600px */
+  /* 600px mobile*/
 
 
 @media screen and (max-width:600px){
@@ -338,10 +340,9 @@ label {
     }
 
     #logo{
-       
-        text-align: center;
-        padding: 0%;
-
+            text-align: center;
+            padding: 0%;
+            font-size: 2rem;
     }
 
   
@@ -384,5 +385,7 @@ label {
     }
     
     
-
+    #border-center-image{
+        width: 100%;
+    }
 }
