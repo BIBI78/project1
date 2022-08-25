@@ -176,6 +176,7 @@ border-bottom: 5px solid rgb(226, 212, 129);
 }
 
 .gold-border-subimage{
+    display: flex;
     margin: 0 auto;
 
 }
@@ -312,9 +313,9 @@ label {
         width: 100%;
     }
 
-    #sub-image img{
+    /* #sub-image img{
         width: 100%;
-    }
+    } */
 
 
 }
@@ -349,10 +350,7 @@ label {
         margin: 0 auto;
     }
 
-    #sub-image{
-        width: 100%;
-        /* width: 390%; */
-     }  
+   
 
     .left-about-heading{
         width : inherit;
@@ -375,9 +373,14 @@ label {
         flex-direction: column;
     }
 
-    #sub-image img {
-    width: 390px;
 
+
+    .gold-border-subimage{
+        width: 200px;
+    }
+
+    #border-center-image{
+        width: 390px;
     }
     
     
