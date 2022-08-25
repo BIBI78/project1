@@ -171,7 +171,7 @@ border-bottom: 5px solid rgb(226, 212, 129);
 
 #welcome{
     text-align: center;
-    margin: 20px, 0;
+    margin: 20px  0;
     font-size: 200%;
 }
 
@@ -201,7 +201,7 @@ footer a :hover{
 .bottom-tag{
     font-family: Cinzel, sans-serif;
     text-align: center;
-    margin: 20px, 0;
+    margin: 20px 0;
     font-size: 60%;
 }
 

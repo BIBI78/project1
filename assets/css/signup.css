@@ -29,7 +29,6 @@ h1, h2{
 #logo{
     font-family: Cinzel, sans-serif;
     color: black;
-    float: center;
     font-size: 3rem;
     letter-spacing: 30px;
     text-align: center;
@@ -98,7 +97,7 @@ footer a :hover{
 .bottom-tag{
     font-family: Cinzel, sans-serif;
     text-align: center;
-    margin: 20px, 0;
+    margin: 20px 0;
     font-size: 60%;
 }
 

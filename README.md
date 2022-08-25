@@ -42,14 +42,15 @@ This website is for a meditation seminar in Paris,France
 
 ### HTML/CSS Validator
 
-* No errors were returned when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbibi78.github.io%2Fproject1%2F)
+* No errors were returned when passing through the official HTML [W3 validator](https://validator.w3.org/nu/)
 
-* CSS
+* No errors were returned when passing through the official CSS [W3 validator](https://jigsaw.w3.org/css-validator/) except this ![one](assets/images/cssBUG.png) which I decided to keep because this is how I wanted my code.
 
 
 # Unfixed Bugs 
 
-* getting eveything to be responsive got tricky. not sure everything is perfect.
+* I get an error when I highlight the the page the user is currently on in the navigation bar.
+* the bootstrap style sheet and my own style sheets conflicct but I found a way around it.
 
 # Deployment
 
@@ -63,6 +64,7 @@ This website is for a meditation seminar in Paris,France
 * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/icons) .
 * The font came from [Google Fonts](https://fonts.google.com/) .
 * The javascript for the slide show came from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/) .
+* The information on meditation I got from Google as well.
 
 ## Media 
 * All images came from Google.
