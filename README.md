@@ -5,7 +5,7 @@
 
 
 
-![Responsive Images](amiresponsive.png)
+![Responsive Images](assets/images/responsiveimage.png)
 
 
 # Features
@@ -13,10 +13,10 @@
 This website is for a meditation seminar in Paris,France
 
 1. Navigation Bar
- * Responsive,.
+ * Responsive.
  * Center aligned and on all three pages.
 
-![Navigation Bar](nav.png)
+![Navigation Bar](assets/images/navbar.png)
 
 
 2. Landing Page 
