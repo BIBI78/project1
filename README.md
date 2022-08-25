@@ -67,7 +67,7 @@ This website is for a meditation seminar in Paris,France
 * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/icons) .
 * The font came from [Google Fonts](https://fonts.google.com/) .
 * The javascript for the slide show came from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/) .
-* The information on meditation I got from Google as well.
+* The information on meditation definitions I copied from Google as well.
 
 ## Media 
 * All images came from Google.
