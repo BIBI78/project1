@@ -50,7 +50,10 @@ This website is for a meditation seminar in Paris,France
 # Unfixed Bugs 
 
 * I get an error when I highlight the the page the user is currently on in the navigation bar.
-* the bootstrap style sheet and my own style sheets conflicct but I found a way around it.
+* The bootstrap style sheet and my own style sheets conflicct but I found a way around it.
+* The footer styling was a bit tricky for some reason and I didnt get to do everything I wanted.
+* The Meditation page I did not really know what to add to it , it seemed superflous. 
+
 
 # Deployment
 
